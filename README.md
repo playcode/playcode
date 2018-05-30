@@ -8,5 +8,5 @@ PLAYCODE is fast, simple and beautiful.
  - [Public](http://santa.playcode.io)
 
 ### Desktop client (Unofficial)
-- [Mac OS](https://github.com/Meadowcottage/playcode-desktop/releases)
-- [Other platforms with source code](https://github.com/Meadowcottage/playcode-desktop)
+- [Mac OS](https://github.com/playcode/playcode-desktop/releases)
+- [Other platforms with source code](https://github.com/playcode/playcode-desktop)
