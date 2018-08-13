@@ -1,5 +1,7 @@
 ## PLAYCODE
-Quickly and Easily make Frontend Experiments with [Online Javascript Editor](https://playcode.io/online-javascript-editor)
+Quickly and Easily make Frontend Experiments
+[Online Javascript Editor](https://playcode.io/online-javascript-editor)
+[Online HTML Editor](https://playcode.io/online-html-editor)
 
 PLAYCODE is fast, simple and beautiful.
 
