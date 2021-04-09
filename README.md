@@ -1,7 +1,11 @@
 ## PLAYCODE
 Quickly and Easily make Frontend Experiments
 
-[Online Javascript Editor](https://playcode.io/online-javascript-editor)
+[Javascript Online](https://playcode.io/online-javascript-editor)
+
+[Onine Javascript Compiler](https://playcode.io/online-javascript-compiler)
+
+[Javascript Editor](https://playcode.io/javascript-editor)
 
 [Typescript Playground](https://playcode.io/typescript-playground)
 
