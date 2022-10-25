@@ -1,13 +1,9 @@
 ### PLAYCODE
 ### Javascript Online Playground. 
 
-[Javascript Online](https://playcode.io/javascript-online)
+[Javascript Playground (Sandbox, Repl)](https://playcode.io)
 
-[Javascript Sandbox](https://playcode.io/javascript-sandbox)
-
-[Onine Javascript Compiler](https://playcode.io/online-javascript-compiler)
-
-[Javascript Editor](https://playcode.io/javascript-editor)
+[Javascript Online Compiler (Editor)](https://playcode.io/javascript-online)
 
 [Typescript Playground](https://playcode.io/typescript-playground)
 
