@@ -1,13 +1,11 @@
 ### PLAYCODE
-### Javascript Online Playground. 
+### Javascript Playground. 
 
 [Javascript Playground (Sandbox, Repl)](https://playcode.io)
 
-[Javascript Online Compiler (Editor)](https://playcode.io/javascript-online)
+[Javascript Compiler Online & Editor](https://playcode.io/javascript-compiler-online)
 
 [Typescript Playground](https://playcode.io/typescript-playground)
-
-[Online HTML Editor](https://playcode.io/online-html-editor)
 
 PLAYCODE is fast, simple and beautiful.
 
@@ -16,5 +14,4 @@ PLAYCODE is fast, simple and beautiful.
  - [Public](http://santa.playcode.io)
 
 ### Desktop client (Unofficial)
-- [Mac OS](https://github.com/playcode/playcode-desktop/releases)
-- [Other platforms with source code](https://github.com/playcode/playcode-desktop)
+- [Mac OS, Windows, Linus](https://github.com/playcode/playcode-desktop/releases)
