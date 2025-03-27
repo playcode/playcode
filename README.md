@@ -13,5 +13,5 @@ PLAYCODE is fast, simple and beautiful.
  - [Source code](https://playcode.io/demo)
  - [Public](http://demo.playcode.io)
 
-### Desktop client (Unofficial)
-- [Mac OS, Windows, Linus](https://github.com/playcode/playcode-desktop/releases)
+### Desktop client
+- [Mac OS, Windows, Linus](https://github.com/playcode/playcode/releases)
