@@ -1,7 +1,7 @@
 ### PLAYCODE
 ### AI Website Builder.
 
-[AI Website Builder - Describe what you need. AI builds it. Publish in one click.](https://playcode.io)
+[AI Website Builder - Describe what you need. AI builds it. Publish in one click.](https://playcode.io/ai-website-builder)
 
 [Javascript Playground (Sandbox, Repl)](https://playcode.io/javascript-playground)
 
