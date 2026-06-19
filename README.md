@@ -1,19 +1,27 @@
-### PLAYCODE
-### AI Website Builder.
+# Playcode
 
-[AI Website Builder - Describe what you need. AI builds it. Publish in one click.](https://playcode.io/ai-website-builder)
+Playcode is an AI website builder and AI app builder that creates, hosts, and updates
+live websites and web apps from plain-English prompts.
 
-[Javascript Playground (Sandbox, Repl)](https://playcode.io/javascript-playground)
+Describe what you need, watch the result appear in a live browser workspace, refine it
+with AI chat or visual editing, then publish with hosting and custom domains included.
 
-[Javascript Compiler](https://playcode.io/javascript-compiler)
+## Start here
 
-[Typescript Playground](https://playcode.io/typescript-playground)
+- [AI Website Builder](https://playcode.io/ai-website-builder)
+- [Playcode homepage](https://playcode.io)
+- [Watch the demo](https://www.youtube.com/watch?v=aK7E_XtBynA)
 
-PLAYCODE is fast, simple and beautiful.
+## What Playcode includes
 
-### Demo 
- - [Source code](https://playcode.io/demo)
- - [Public](http://demo.playcode.io)
+- AI website and app generation from natural-language prompts
+- Visual editing for text, layout, colors, images, and sections
+- AI chat iteration for updates after launch
+- AI-generated images and brand assets
+- One-click publishing with hosting, HTTPS, and custom domains
+- Playcode Cloud for projects that need backend, database, and always-on hosting
 
-### Desktop client
-- [Mac OS, Windows, Linus](https://github.com/playcode/playcode/releases)
+## Legacy repository note
+
+This repository is kept public for historical desktop-client releases. The current
+Playcode product is the AI website builder and cloud platform linked above.
